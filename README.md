@@ -2,7 +2,7 @@
 #### I'm Gabriel Peres, a Computer Science student at State University of Londrina
 
 <div>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gPeres0&show_icons=true&&include_all_commits=true&count_private=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gPeres0&show_icons=true&&include_all_commits=true&count_private=true&layout=compact&theme=dark">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gPeres0&langs_count=true&layout=compact&theme=dark">
 </div>
 

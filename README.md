@@ -2,7 +2,7 @@
 #### I'm Gabriel Peres, a Computer Science student at State University of Londrina
 
 <div>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gPeres0&show_icons=true&&include_all_commits=true&count_private=true&layout=compact&theme=dark">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gPeres0&show_icons=true&&include_all_commits=true&count_private=true&theme=dark">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gPeres0&langs_count=true&layout=compact&theme=dark">
 </div>
 
@@ -15,5 +15,4 @@
   <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="right" height="100" width="100" src="https://cdn.discordapp.com/attachments/840021456166715453/1108460512687165540/amogus.gif">
 </div>

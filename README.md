@@ -1,4 +1,5 @@
-## Hey...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=10000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hey..................................................)](https://git.io/typing-svg)
+---
 #### I'm Gabriel Peres, a Computer Science student at State University of Londrina
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)

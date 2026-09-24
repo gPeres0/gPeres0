@@ -21,3 +21,5 @@
   <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div>
+
+![snake animation](https://github.com/gPeres0/gPeres0/blob/output/github-contribution-grid-snake2.svg)

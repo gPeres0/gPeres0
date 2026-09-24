@@ -2,8 +2,8 @@
 ---
 #### I'm Gabriel Peres, a Computer Science student at State University of Londrina
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gPeres0&layout=donut&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gPeres0&layout=donut&langs_count=4&theme=vision-friendly-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=gPeres0&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gPeres0&layout=compact&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gPeres0&layout=compact&langs_count=8&theme=dark)
 
 <div align="center"><br>
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

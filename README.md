@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=10000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hey..................................................)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=20000&pause=1000&color=FFFFFF&vCenter=true&width=1000&lines=Hey.................................................................................................)](https://git.io/typing-svg)
 ---
 #### I'm Gabriel Peres, a Computer Science student at State University of Londrina
 
